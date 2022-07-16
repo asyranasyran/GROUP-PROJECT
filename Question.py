@@ -1,0 +1,16 @@
+Q_and_A =[['What is the national flower of Malaysia?', ["Cherry", "Sunflower", "Hibiscus", "Tahi Ayam"], "Hibiscus"],
+         ['What is the national animal of Malaysia?', ["Kambing","Singa","Beruang", "Harimau"], "Harimau"],
+         ['How many states are there in Malaysia?', ["10","12","13","14"], "14"],
+         ['What is the name of Malaysian National Anthem?', ["Negaraku","God Save The Queen","Star-Spangled Banner","Salam al-Malaki"], "Negaraku"],
+         ['Which year did Malaysia gain independence?', ["1969","1945","1956","1957"], "1957"],
+         ['Who is the 1st Malaysian Prime Minister?', ["Tunku Abd Rahman","Tun Dr Mahathir","Tun Hussein Onn","Tun Abdullah Badawi"], "Tunku Abd Rahman"],
+         ['In what year did the Japanese Empire attack Malaya?', ["1939","1941","1942","1944"], "1941"].
+		   ['What is internet?', ["a single network", "a vast collection of different networks", "interconnection of local area networks", "interconnection of wide area networks"], "a vast collection of different networks"],
+		   ['To join the internet, the computer has to be connected to a _________ ', ["internet architecture board", "internet society", "internet service provider", "different computer"], "internet service provider"],
+		   ['The size of an IP address in IPv6 is _________ ', ["32 bits", "64 bits", "128 bits", "265 bits"], "128 bits"],
+		   ['Internet works on _______ ', ["packet switching", "circuit switching", "both packet switching and circuit switching", "data switching"], "packet switching"],
+		   ['Multiple processes on destinations at transport layer are identified by __________', ["Mac address", "Port number", "Host number", "Host address"], "Port number"],
+		   ['Range of port numbers in Internet model is __________', ["0 and 32,765(8-bit)", "0 and 32,765(16-bit)", "0 and 65,535(32-bit)", "0 and 65,535(16-bit)"], "0 and 65,535(16-bit)"],
+		   ['The combination of an IP address and port number is called as ________ ', ["Socket address", "Port address", "MAC address", "Host address"], "Socket address"],
+		   ['Which of the following is false with respect to Connectionless service of transport layer protocol?', ["Packets are not numbered", "Packets are not delayed", "No acknowledgement", "Packet may arrive out of sequence"], "Packets are not delayed"],
+		   ['URL stands for ________ ', ["unique reference label", "uniform reference label", "uniform resource locator", "unique resource locator"], "uniform resource locator"]]

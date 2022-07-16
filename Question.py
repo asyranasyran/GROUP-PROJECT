@@ -4,7 +4,8 @@ Q_and_A =[['What is the national flower of Malaysia?', ["Cherry", "Sunflower", "
          ['What is the name of Malaysian National Anthem?', ["Negaraku","God Save The Queen","Star-Spangled Banner","Salam al-Malaki"], "Negaraku"],
          ['Which year did Malaysia gain independence?', ["1969","1945","1956","1957"], "1957"],
          ['Who is the 1st Malaysian Prime Minister?', ["Tunku Abd Rahman","Tun Dr Mahathir","Tun Hussein Onn","Tun Abdullah Badawi"], "Tunku Abd Rahman"],
-         ['In what year did the Japanese Empire attack Malaya?', ["1939","1941","1942","1944"], "1941"].
+         ['In what year did the Japanese Empire attack Malaya?', ["1939","1941","1942","1944"], "1941"],
+	 ['Who play as Mat Kilau in the Mat Kilau Movie?', ["Dato Adi Putra","Toga","Fattah Amin","Beto Khushairi"], "Dato Adi Putra"].	  
 		   ['What is internet?', ["a single network", "a vast collection of different networks", "interconnection of local area networks", "interconnection of wide area networks"], "a vast collection of different networks"],
 		   ['To join the internet, the computer has to be connected to a _________ ', ["internet architecture board", "internet society", "internet service provider", "different computer"], "internet service provider"],
 		   ['The size of an IP address in IPv6 is _________ ', ["32 bits", "64 bits", "128 bits", "265 bits"], "128 bits"],
